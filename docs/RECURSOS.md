@@ -12,7 +12,7 @@
 - Imagen de Mabel: [Mabel Pines](https://gravityfalls.fandom.com/wiki/Mabel_Pines).
 - Imagen de Stan: [Stan Pines](https://gravityfalls.fandom.com/wiki/Stan_Pines).
 - Imagen de Summerween: [Summerween](https://gravityfalls.fandom.com/wiki/Summerween).
-- Miniaturas de los clips: canal de [Disney Channel Animation en YouTube](https://www.youtube.com/@disneychannel).
+- Imagen de la escena de Weirdmageddon: miniatura del video de [Disney Channel Animation](https://www.youtube.com/watch?v=WCjZe2tph3w).
 - Fotografía del estudiante y datos de identificación: suministrados por el estudiante en `desarrollo-mobile.docx`.
 
 Las imágenes de la serie pertenecen a sus respectivos titulares y se incluyen en este proyecto académico. La app no reclama derechos sobre ellas.

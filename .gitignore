@@ -33,6 +33,7 @@ migrate_working_dir/
 /build/
 /coverage/
 /output/pdf/
+/tmp/pdfs/
 
 # Symbolication related
 app.*.symbols
